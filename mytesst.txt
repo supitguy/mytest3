@@ -1,0 +1,4 @@
+public class User{
+	private Steing name;
+	private int age;
+}
